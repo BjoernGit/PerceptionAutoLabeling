@@ -15,8 +15,10 @@ To create a unique test case, I 3D scanned a wooden cobra sculpture using a high
 ## Dataset Generation
 The scanned cobra model was integrated into Unity scenes to automatically generate a comprehensive dataset of 10,000 synthetic images with varied lighting, backgrounds, and camera angles.
 
-## Training Demo
-[🎬 Watch Training Process](./Videos/KobraTraining.mp4)
+## Training Process
+![Training Demo](./Videos/KobraTrainGif.gif)
+
+[🎬 Full Training Video (MP4)](./Videos/KobraTraining.mp4)
 
 ## Results
 [Coming soon - Add your webcam test results here]
